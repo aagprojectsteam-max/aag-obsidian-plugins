@@ -6,7 +6,9 @@
       "repository": "aagprojectsteam-max/aag-obsidian-designtweaker",
       "version": "1.1.11",
       "minAppVersion": "1.13.7",
-      "description": "Appearance controls for the explorer, tabs, notes, scrollbars and related UI."
+      "description": "Appearance controls for the explorer, tabs, notes, scrollbars and related UI.",
+      "maintenance": "Maintained by AAG",
+      "release": "https://github.com/aagprojectsteam-max/aag-obsidian-designtweaker/releases/tag/1.1.11"
     },
     {
       "name": "AAG - Smart Paste",
@@ -14,7 +16,9 @@
       "repository": "aagprojectsteam-max/aag-obsidian-smartpaste",
       "version": "0.5.1",
       "minAppVersion": "1.13.7",
-      "description": "Paste formatting, precise location links and safe location-point removal."
+      "description": "Paste formatting, precise location links and safe location-point removal.",
+      "maintenance": "Maintained by AAG",
+      "release": "https://github.com/aagprojectsteam-max/aag-obsidian-smartpaste/releases/tag/0.5.1"
     }
   ]
 }

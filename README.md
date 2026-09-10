@@ -1,6 +1,6 @@
 # AAG Obsidian plugins
 
-A local prepared catalog of publicly released AAG plugins. This catalog itself has not been published.
+The catalog of publicly released AAG Obsidian plugins. Each entry links to verified, installable release assets.
 
 | Plugin | Latest verified release | Minimum Obsidian |
 |---|---|---|
@@ -14,3 +14,7 @@ For manual installation, use the release's individual main.js, manifest.json and
 These projects have not been submitted to the official Community directory in this work session. Unreleased/private portfolio projects are not catalog entries. Never download an internal development tree as a substitute for a release.
 
 Validate the local catalog with `python3 scripts/validate.py`. No network access or dependency installation is required by that check.
+
+## Maintenance
+
+Both listed plugins are maintained by AAG. Report reproducible problems through each repository's Issues page. Release versions are recorded in `catalog.json`; update its entry and the table together after verifying a new release.

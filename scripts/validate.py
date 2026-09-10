@@ -7,4 +7,4 @@ for p in plugins:
  assert re.fullmatch(r'\d+\.\d+\.\d+',p['version'])
  assert p['minAppVersion']=='1.13.7'
  assert 'https://github.com/'+p['repository']+'/releases/tag/'+p['version'] in (root/'README.md').read_text()
-print('CATALOG=PASS; ENTRIES=2; LOCAL_ONLY')
+print('CATALOG=PASS; ENTRIES=2')
