@@ -14,11 +14,11 @@
       "name": "AAG - Smart Paste",
       "id": "aag-smart-paste",
       "repository": "aagprojectsteam-max/aag-obsidian-smartpaste",
-      "version": "0.5.1",
+      "version": "0.6.0",
       "minAppVersion": "1.13.7",
-      "description": "Paste formatting, precise location links and safe location-point removal.",
+      "description": "Paste formatting, stable location links and an optional action for a compatible private Anki integration.",
       "maintenance": "Maintained by AAG",
-      "release": "https://github.com/aagprojectsteam-max/aag-obsidian-smartpaste/releases/tag/0.5.1"
+      "release": "https://github.com/aagprojectsteam-max/aag-obsidian-smartpaste/releases/tag/0.6.0"
     },
     {
       "name": "SideNotes",
