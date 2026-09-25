@@ -4,21 +4,21 @@
       "name": "AAG - Design Tweaker",
       "id": "aag-design-tweaker",
       "repository": "aagprojectsteam-max/aag-obsidian-designtweaker",
-      "version": "1.1.11",
+      "version": "1.1.12",
       "minAppVersion": "1.13.7",
       "description": "Appearance controls for the explorer, tabs, notes, scrollbars and related UI.",
       "maintenance": "Maintained by AAG",
-      "release": "https://github.com/aagprojectsteam-max/aag-obsidian-designtweaker/releases/tag/1.1.11"
+      "release": "https://github.com/aagprojectsteam-max/aag-obsidian-designtweaker/releases/tag/1.1.12"
     },
     {
       "name": "AAG - Smart Paste",
       "id": "aag-smart-paste",
       "repository": "aagprojectsteam-max/aag-obsidian-smartpaste",
-      "version": "0.6.0",
+      "version": "0.6.1",
       "minAppVersion": "1.13.7",
       "description": "Paste formatting, stable location links and an optional action for a compatible private Anki integration.",
       "maintenance": "Maintained by AAG",
-      "release": "https://github.com/aagprojectsteam-max/aag-obsidian-smartpaste/releases/tag/0.6.0"
+      "release": "https://github.com/aagprojectsteam-max/aag-obsidian-smartpaste/releases/tag/0.6.1"
     },
     {
       "name": "SideNotes",
