@@ -21,14 +21,14 @@
       "release": "https://github.com/aagprojectsteam-max/aag-obsidian-smartpaste/releases/tag/0.6.1"
     },
     {
-      "name": "SideNotes",
+      "name": "AAG - SideNotes",
       "id": "context-aware-paragraph-notes",
       "repository": "aagprojectsteam-max/aag-obsidian-sidenotes",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "minAppVersion": "1.13.7",
       "description": "Paragraph-linked sidebar notes with import recovery and duplicate-writer protection.",
       "maintenance": "Maintained by AAG",
-      "release": "https://github.com/aagprojectsteam-max/aag-obsidian-sidenotes/releases/tag/0.2.1"
+      "release": "https://github.com/aagprojectsteam-max/aag-obsidian-sidenotes/releases/tag/0.2.2"
     }
   ]
 }
