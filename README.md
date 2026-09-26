@@ -6,7 +6,7 @@ The catalog of publicly released AAG Obsidian plugins. Each entry links to verif
 |---|---|---|
 | [Design Tweaker](https://github.com/aagprojectsteam-max/aag-obsidian-designtweaker) | [1.1.12](https://github.com/aagprojectsteam-max/aag-obsidian-designtweaker/releases/tag/1.1.12) | 1.13.7 |
 | [Smart Paste](https://github.com/aagprojectsteam-max/aag-obsidian-smartpaste) | [0.6.1](https://github.com/aagprojectsteam-max/aag-obsidian-smartpaste/releases/tag/0.6.1) | 1.13.7 |
-| [SideNotes](https://github.com/aagprojectsteam-max/aag-obsidian-sidenotes) | [0.2.1](https://github.com/aagprojectsteam-max/aag-obsidian-sidenotes/releases/tag/0.2.1) | 1.13.7 |
+| [SideNotes](https://github.com/aagprojectsteam-max/aag-obsidian-sidenotes) | [0.2.2](https://github.com/aagprojectsteam-max/aag-obsidian-sidenotes/releases/tag/0.2.2) | 1.13.7 |
 
 Design Tweaker controls explorer, tab, note and other UI appearance. Smart Paste provides formatting commands, precise location links and location-point removal. SideNotes links sidebar notes to paragraphs and preserves the historical `context-aware-paragraph-notes` identity; read its migration guide before switching installations. Each repository contains its own documentation, source, license and release assets.
 
